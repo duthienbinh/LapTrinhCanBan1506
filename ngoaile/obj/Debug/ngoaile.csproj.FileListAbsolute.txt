@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\ngoaile\bin\Debug\ngoaile.exe.config
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\ngoaile\bin\Debug\ngoaile.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\ngoaile\bin\Debug\ngoaile.pdb
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\ngoaile\obj\Debug\ngoaile.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\ngoaile\obj\Debug\ngoaile.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\ngoaile\obj\Debug\ngoaile.pdb
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\ngoaile\obj\Debug\ngoaile.csproj.AssemblyReference.cache

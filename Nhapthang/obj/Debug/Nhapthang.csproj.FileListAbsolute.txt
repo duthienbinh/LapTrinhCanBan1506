@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Nhapthang\bin\Debug\Nhapthang.exe.config
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Nhapthang\bin\Debug\Nhapthang.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Nhapthang\bin\Debug\Nhapthang.pdb
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Nhapthang\obj\Debug\Nhapthang.csproj.AssemblyReference.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Nhapthang\obj\Debug\Nhapthang.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Nhapthang\obj\Debug\Nhapthang.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Nhapthang\obj\Debug\Nhapthang.pdb

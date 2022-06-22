@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Timsolonnhat\bin\Debug\Timsolonnhat.exe.config
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Timsolonnhat\bin\Debug\Timsolonnhat.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Timsolonnhat\bin\Debug\Timsolonnhat.pdb
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Timsolonnhat\obj\Debug\Timsolonnhat.csproj.AssemblyReference.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Timsolonnhat\obj\Debug\Timsolonnhat.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Timsolonnhat\obj\Debug\Timsolonnhat.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Timsolonnhat\obj\Debug\Timsolonnhat.pdb

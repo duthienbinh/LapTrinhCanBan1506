@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\nhaptu0-10xeploaihoctap\bin\Debug\nhaptu0-10xeploaihoctap.exe.config
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\nhaptu0-10xeploaihoctap\bin\Debug\nhaptu0-10xeploaihoctap.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\nhaptu0-10xeploaihoctap\bin\Debug\nhaptu0-10xeploaihoctap.pdb
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\nhaptu0-10xeploaihoctap\obj\Debug\nhaptu0-10xeploaihoctap.csproj.AssemblyReference.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\nhaptu0-10xeploaihoctap\obj\Debug\nhaptu0-10xeploaihoctap.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\nhaptu0-10xeploaihoctap\obj\Debug\nhaptu0-10xeploaihoctap.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\nhaptu0-10xeploaihoctap\obj\Debug\nhaptu0-10xeploaihoctap.pdb

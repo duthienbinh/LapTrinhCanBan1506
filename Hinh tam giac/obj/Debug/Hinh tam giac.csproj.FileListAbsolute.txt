@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Hinh tam giac\bin\Debug\Hinh tam giac.exe.config
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Hinh tam giac\bin\Debug\Hinh tam giac.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Hinh tam giac\bin\Debug\Hinh tam giac.pdb
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Hinh tam giac\obj\Debug\Hinh tam giac.csproj.AssemblyReference.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Hinh tam giac\obj\Debug\Hinh tam giac.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Hinh tam giac\obj\Debug\Hinh tam giac.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\Hinh tam giac\obj\Debug\Hinh tam giac.pdb

@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\sudungvonglap\bin\Debug\sudungvonglap.exe.config
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\sudungvonglap\bin\Debug\sudungvonglap.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\sudungvonglap\bin\Debug\sudungvonglap.pdb
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\sudungvonglap\obj\Debug\sudungvonglap.csproj.AssemblyReference.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\sudungvonglap\obj\Debug\sudungvonglap.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\sudungvonglap\obj\Debug\sudungvonglap.exe
+C:\Users\NN\Desktop\0932EC\LapTrinhCanBan1506\sudungvonglap\obj\Debug\sudungvonglap.pdb
